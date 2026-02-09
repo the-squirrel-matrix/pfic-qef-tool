@@ -1,0 +1,6 @@
+# Required dependencies
+# None - the tool runs with Python 3.9+ stdlib only
+
+# Optional dependencies for enhanced functionality
+openpyxl>=3.0.0  # For Excel workbook support (.xlsx files)
+reportlab>=3.6.0  # For PDF report generation

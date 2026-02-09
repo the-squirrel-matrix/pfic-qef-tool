@@ -1,0 +1,24 @@
+date,type,ticker,quantity,amount,fees,currency,exchange_rate
+# Transactions Template for PFIC QEF Tool
+# ----------------------------------------
+# date: Transaction date in YYYY-MM-DD format (preferred, other formats accepted)
+# type: Buy or Sell (case-insensitive)
+# ticker: Fund ticker symbol (e.g., XEQT, VEQT)
+# quantity: Number of shares/units (up to 4 decimal places)
+# amount: Transaction amount EXCLUDING fees
+# fees: Commission/fees paid
+# currency: CAD or USD
+# exchange_rate: CAD to USD rate (optional if using --use-boc-rates flag)
+#
+# IMPORTANT NOTES:
+# - Only BUY and SELL transactions matching the ticker in your config will be processed
+# - Other transaction types (DIST, DIV, etc.) are silently skipped
+# - Only transactions from the tax year specified in your config are included in reports
+# - If currency is USD, exchange_rate is ignored (assumed 1.0)
+# - If not using --use-boc-rates, you MUST provide exchange_rate for CAD transactions
+# - All amounts should be positive (negative values will generate warnings)
+#
+# Example entries (delete these and add your own):
+# 2024-01-15,Buy,XEQT,50.0000,1250.00,9.99,CAD,0.7450
+# 2024-06-20,Sell,XEQT,25.0000,700.00,9.99,CAD,0.7320
+# 2024-03-10,Buy,XEQT,30.0000,900.00,9.99,USD,

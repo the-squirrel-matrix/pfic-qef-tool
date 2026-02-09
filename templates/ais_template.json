@@ -1,0 +1,39 @@
+{
+  "_comment": "PFIC QEF Tool - AIS Data Template",
+  "_instructions": [
+    "Fill in values from your PFIC's Annual Information Statement (AIS)",
+    "All per-share amounts should be converted to USD",
+    "The AIS typically provides these values directly - look for:",
+    "  - 'Ordinary Earnings per share per day' (in USD)",
+    "  - 'Net Capital Gains per share per day' (in USD)",
+    "  - 'Total Cash Distributions' per share for the year (in USD)",
+    "",
+    "For underlying PFICs (funds held by your fund):",
+    "  - Add each one to the underlying_pfics array",
+    "  - These are also per share of the TOP-LEVEL fund you hold",
+    "",
+    "NOTE: The number of days in the tax year (365 or 366) is automatically",
+    "calculated based on the tax_year - you don't need to specify it."
+  ],
+  
+  "tax_year": 2024,
+  
+  "fund_ticker": "YOUR_TICKER",
+  "fund_name": "Your Fund Full Name",
+  
+  "ordinary_earnings_per_day_per_share_usd": "0.0000000000",
+  "net_capital_gains_per_day_per_share_usd": "0.0000000000",
+  "total_distributions_per_share_usd": "0.0000000000",
+  
+  "_note_distributions": "Total cash distributions for the entire year, NOT per-day",
+  
+  "underlying_pfics": [
+    {
+      "_comment": "Add one entry for each underlying PFIC. Delete this example.",
+      "fund_ticker": "UNDERLYING1",
+      "fund_name": "Underlying Fund Name",
+      "ordinary_earnings_per_day_per_share_usd": "0.0000000000",
+      "net_capital_gains_per_day_per_share_usd": "0.0000000000"
+    }
+  ]
+}

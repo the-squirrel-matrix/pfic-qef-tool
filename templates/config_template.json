@@ -1,0 +1,13 @@
+{
+  "_comment": "PFIC QEF Tool - Configuration Template",
+  "_instructions": [
+    "Fill in the values below and save as config.json",
+    "pfic_ticker: The ticker symbol of your PFIC (e.g., XEQT, VEQT)",
+    "pfic_name: The full name of the fund",
+    "default_currency: Currency of your transactions (usually CAD)",
+    "Note: Tax year is specified via --year argument"
+  ],
+  "pfic_ticker": "YOUR_TICKER",
+  "pfic_name": "Your Fund Name Here",
+  "default_currency": "CAD"
+}

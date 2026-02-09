@@ -1,0 +1,19 @@
+lot_id,ticker,purchase_date,quantity,cost_basis_usd,original_lot_id
+# Beginning Lots Template for PFIC QEF Tool
+# ------------------------------------------
+# lot_id: Unique identifier for this lot (e.g., LOT-001, LOT-002)
+# ticker: Fund ticker symbol (must match config, e.g., XEQT, VEQT)
+# purchase_date: Date purchased in YYYY-MM-DD format (preferred, other formats accepted)
+# quantity: Number of shares/units in this lot (up to 4 decimal places)
+# cost_basis_usd: Total cost basis in USD (purchase price + fees, already in USD)
+# original_lot_id: (optional) If this lot was split from another, the original lot ID
+#
+# NOTES:
+# - These are lots you held at the START of the tax year (from prior years)
+# - Lots purchased during the tax year should go in transactions.csv, not here
+# - Cost basis should already include any prior year QEF adjustments
+# - The tool accepts both .csv and .json formats for lot files
+#
+# Example entries (delete these and add your own):
+# LOT-2023-001,XEQT,2023-01-15,100.0000,2500.00,
+# LOT-2023-002,XEQT,2023-06-20,50.0000,1350.00,
