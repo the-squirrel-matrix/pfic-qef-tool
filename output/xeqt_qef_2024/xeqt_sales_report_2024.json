@@ -1,0 +1,15 @@
+[
+  {
+    "lot_id": "LOT-001",
+    "original_lot_id": null,
+    "purchase_date": "2023-03-15",
+    "sale_date": "2024-08-20",
+    "shares_sold": "40.0000",
+    "cost_basis_usd": "940.00",
+    "cost_basis_adjusted_usd": "953.37",
+    "proceeds_usd": "881.80",
+    "gain_loss_usd": "-71.57",
+    "gain_type": "LONG_TERM",
+    "holding_period_days": 524
+  }
+]

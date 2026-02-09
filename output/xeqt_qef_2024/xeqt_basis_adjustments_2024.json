@@ -1,0 +1,140 @@
+[
+  {
+    "lot_id": "LOT-001",
+    "shares": "40.0000",
+    "days_held_in_year": 232,
+    "ordinary_earnings_usd": "11.80",
+    "capital_gains_usd": "12.98",
+    "distributions_usd": "11.41",
+    "net_adjustment_usd": "13.37",
+    "basis_before_usd": "940.00",
+    "basis_after_usd": "953.37",
+    "earnings_by_pfic": {
+      "XEQT": "2.86",
+      "XIC": "4.39",
+      "XEF": "3.84",
+      "XEC": "0.71"
+    },
+    "gains_by_pfic": {
+      "XEQT": "4.33",
+      "XIC": "7.56",
+      "XEF": "0.94",
+      "XEC": "0.15"
+    }
+  },
+  {
+    "lot_id": "LOT-001.1",
+    "shares": "60.0000",
+    "days_held_in_year": 366,
+    "ordinary_earnings_usd": "27.92",
+    "capital_gains_usd": "30.70",
+    "distributions_usd": "26.99",
+    "net_adjustment_usd": "31.63",
+    "basis_before_usd": "1410.00",
+    "basis_after_usd": "1441.63",
+    "earnings_by_pfic": {
+      "XEQT": "6.77",
+      "XIC": "10.39",
+      "XEF": "9.08",
+      "XEC": "1.68"
+    },
+    "gains_by_pfic": {
+      "XEQT": "10.24",
+      "XIC": "17.89",
+      "XEF": "2.21",
+      "XEC": "0.36"
+    }
+  },
+  {
+    "lot_id": "LOT-002",
+    "shares": "50.0000",
+    "days_held_in_year": 366,
+    "ordinary_earnings_usd": "23.27",
+    "capital_gains_usd": "25.59",
+    "distributions_usd": "22.49",
+    "net_adjustment_usd": "26.37",
+    "basis_before_usd": "1225.00",
+    "basis_after_usd": "1251.37",
+    "earnings_by_pfic": {
+      "XEQT": "5.64",
+      "XIC": "8.66",
+      "XEF": "7.57",
+      "XEC": "1.40"
+    },
+    "gains_by_pfic": {
+      "XEQT": "8.53",
+      "XIC": "14.91",
+      "XEF": "1.85",
+      "XEC": "0.30"
+    }
+  },
+  {
+    "lot_id": "LOT-003",
+    "shares": "25.0000",
+    "days_held_in_year": 321,
+    "ordinary_earnings_usd": "10.21",
+    "capital_gains_usd": "11.22",
+    "distributions_usd": "9.86",
+    "net_adjustment_usd": "11.57",
+    "basis_before_usd": "491.69",
+    "basis_after_usd": "503.26",
+    "earnings_by_pfic": {
+      "XEQT": "2.47",
+      "XIC": "3.80",
+      "XEF": "3.32",
+      "XEC": "0.62"
+    },
+    "gains_by_pfic": {
+      "XEQT": "3.74",
+      "XIC": "6.54",
+      "XEF": "0.81",
+      "XEC": "0.13"
+    }
+  },
+  {
+    "lot_id": "LOT-004",
+    "shares": "30.0000",
+    "days_held_in_year": 236,
+    "ordinary_earnings_usd": "9.00",
+    "capital_gains_usd": "9.90",
+    "distributions_usd": "8.70",
+    "net_adjustment_usd": "10.20",
+    "basis_before_usd": "611.21",
+    "basis_after_usd": "621.41",
+    "earnings_by_pfic": {
+      "XEQT": "2.18",
+      "XIC": "3.35",
+      "XEF": "2.93",
+      "XEC": "0.54"
+    },
+    "gains_by_pfic": {
+      "XEQT": "3.30",
+      "XIC": "5.77",
+      "XEF": "0.71",
+      "XEC": "0.12"
+    }
+  },
+  {
+    "lot_id": "LOT-005",
+    "shares": "15.0000",
+    "days_held_in_year": 61,
+    "ordinary_earnings_usd": "1.16",
+    "capital_gains_usd": "1.29",
+    "distributions_usd": "1.12",
+    "net_adjustment_usd": "1.33",
+    "basis_before_usd": "311.74",
+    "basis_after_usd": "313.07",
+    "earnings_by_pfic": {
+      "XEQT": "0.28",
+      "XIC": "0.43",
+      "XEF": "0.38",
+      "XEC": "0.07"
+    },
+    "gains_by_pfic": {
+      "XEQT": "0.43",
+      "XIC": "0.75",
+      "XEF": "0.09",
+      "XEC": "0.02"
+    }
+  }
+]

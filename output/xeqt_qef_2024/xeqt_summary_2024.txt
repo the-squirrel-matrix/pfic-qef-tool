@@ -1,0 +1,99 @@
+======================================================================
+PFIC QEF Tax Report - Tax Year 2024
+Fund: iShares Core Equity ETF Portfolio (XEQT)
+======================================================================
+
+BEGINNING OF YEAR POSITION
+----------------------------------------
+  Lots: 2
+  Total Shares: 90.0000
+  Total Cost Basis: $2,165.00
+
+TRANSACTIONS
+----------------------------------------
+  2024-02-15: BUY 25.0000 shares @ $484.25 (commission: $7.44)
+  2024-05-10: BUY 30.0000 shares @ $603.90 (commission: $7.31)
+  2024-08-20: SELL 40.0000 shares @ $889.20 (commission: $7.40)
+  2024-11-01: BUY 15.0000 shares @ $304.50 (commission: $7.24)
+
+QEF INCOME (FORM 8621 DATA)
+----------------------------------------
+  XEQT (Direct):
+    Line 6a Ordinary Earnings: $20.20
+    Line 7a Net Capital Gains: $30.57
+  XIC (Indirect):
+    Line 6a Ordinary Earnings: $31.02
+    Line 7a Net Capital Gains: $53.42
+  XEF (Indirect):
+    Line 6a Ordinary Earnings: $27.12
+    Line 7a Net Capital Gains: $6.61
+  XEC (Indirect):
+    Line 6a Ordinary Earnings: $5.02
+    Line 7a Net Capital Gains: $1.08
+  TOTAL Ordinary Earnings: $83.36
+  TOTAL Net Capital Gains: $91.68
+  TOTAL QEF Income: $175.04
+
+BASIS ADJUSTMENTS
+----------------------------------------
+  LOT-001 (40.0000 shares, 232 days):
+    Ordinary Earnings: +$11.80
+    Capital Gains:     +$12.98
+    Distributions:     -$11.41
+    Net Adjustment:     $+13.37
+    Basis: $940.00 -> $953.37
+  LOT-001.1 (60.0000 shares, 366 days):
+    Ordinary Earnings: +$27.92
+    Capital Gains:     +$30.70
+    Distributions:     -$26.99
+    Net Adjustment:     $+31.63
+    Basis: $1,410.00 -> $1,441.63
+  LOT-002 (50.0000 shares, 366 days):
+    Ordinary Earnings: +$23.27
+    Capital Gains:     +$25.59
+    Distributions:     -$22.49
+    Net Adjustment:     $+26.37
+    Basis: $1,225.00 -> $1,251.37
+  LOT-003 (25.0000 shares, 321 days):
+    Ordinary Earnings: +$10.21
+    Capital Gains:     +$11.22
+    Distributions:     -$9.86
+    Net Adjustment:     $+11.57
+    Basis: $491.69 -> $503.26
+  LOT-004 (30.0000 shares, 236 days):
+    Ordinary Earnings: +$9.00
+    Capital Gains:     +$9.90
+    Distributions:     -$8.70
+    Net Adjustment:     $+10.20
+    Basis: $611.21 -> $621.41
+  LOT-005 (15.0000 shares, 61 days):
+    Ordinary Earnings: +$1.16
+    Capital Gains:     +$1.29
+    Distributions:     -$1.12
+    Net Adjustment:     $+1.33
+    Basis: $311.74 -> $313.07
+
+SALES
+----------------------------------------
+  LOT-001: Sold 40.0000 shares on 2024-08-20
+    Purchased: 2023-03-15 (524 days held)
+    Adjusted Basis: $953.37
+    Proceeds: $881.80
+    Gain/Loss: $-71.57 (LT)
+
+END OF YEAR POSITION
+----------------------------------------
+  Lots: 5
+  Total Shares: 180.0000
+  Total Cost Basis (adjusted): $4,130.74
+
+  LOT-001.1: 60.0000 shares, purchased 2023-03-15, basis $1,441.63
+  LOT-002: 50.0000 shares, purchased 2023-09-20, basis $1,251.37
+  LOT-003: 25.0000 shares, purchased 2024-02-15, basis $503.26
+  LOT-004: 30.0000 shares, purchased 2024-05-10, basis $621.41
+  LOT-005: 15.0000 shares, purchased 2024-11-01, basis $313.07
+
+======================================================================
+Note: This report is for informational purposes only.
+Consult a qualified tax advisor for your specific situation.
+======================================================================

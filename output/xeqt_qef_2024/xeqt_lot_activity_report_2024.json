@@ -1,0 +1,247 @@
+{
+  "tax_year": 2024,
+  "pfic_ticker": "XEQT",
+  "pfic_name": "iShares Core Equity ETF Portfolio",
+  "beginning_lots": [
+    {
+      "lot_id": "LOT-001",
+      "purchase_date": "2023-03-15",
+      "shares": "40.0000",
+      "cost_basis_usd": "940.00",
+      "original_lot_id": null
+    },
+    {
+      "lot_id": "LOT-002",
+      "purchase_date": "2023-09-20",
+      "shares": "50.0000",
+      "cost_basis_usd": "1225.00",
+      "original_lot_id": null
+    }
+  ],
+  "transactions_processed": [
+    {
+      "date": "2024-02-15",
+      "type": "BUY",
+      "shares": "25.0000",
+      "amount_usd": "484.25",
+      "commission_usd": "7.44"
+    },
+    {
+      "date": "2024-05-10",
+      "type": "BUY",
+      "shares": "30.0000",
+      "amount_usd": "603.90",
+      "commission_usd": "7.31"
+    },
+    {
+      "date": "2024-08-20",
+      "type": "SELL",
+      "shares": "40.0000",
+      "amount_usd": "889.20",
+      "commission_usd": "7.40"
+    },
+    {
+      "date": "2024-11-01",
+      "type": "BUY",
+      "shares": "15.0000",
+      "amount_usd": "304.50",
+      "commission_usd": "7.24"
+    }
+  ],
+  "lots_created": [
+    {
+      "lot_id": "LOT-001.1",
+      "purchase_date": "2023-03-15",
+      "shares": "60.0000",
+      "cost_basis_usd": "1410.00",
+      "original_lot_id": "LOT-001"
+    },
+    {
+      "lot_id": "LOT-003",
+      "purchase_date": "2024-02-15",
+      "shares": "25.0000",
+      "cost_basis_usd": "491.69",
+      "original_lot_id": null
+    },
+    {
+      "lot_id": "LOT-004",
+      "purchase_date": "2024-05-10",
+      "shares": "30.0000",
+      "cost_basis_usd": "611.21",
+      "original_lot_id": null
+    },
+    {
+      "lot_id": "LOT-005",
+      "purchase_date": "2024-11-01",
+      "shares": "15.0000",
+      "cost_basis_usd": "311.74",
+      "original_lot_id": null
+    }
+  ],
+  "lots_sold": [
+    {
+      "lot_id": "LOT-001",
+      "original_lot_id": null,
+      "purchase_date": "2023-03-15",
+      "sale_date": "2024-08-20",
+      "shares_sold": "40.0000",
+      "cost_basis_usd": "940.00",
+      "cost_basis_adjusted_usd": "953.37",
+      "proceeds_usd": "881.80",
+      "gain_loss_usd": "-71.57",
+      "gain_type": "LONG_TERM",
+      "holding_period_days": 524
+    }
+  ],
+  "basis_adjustments": [
+    {
+      "lot_id": "LOT-001",
+      "shares": "40.0000",
+      "days_held_in_year": 232,
+      "ordinary_earnings_usd": "11.80",
+      "capital_gains_usd": "12.98",
+      "distributions_usd": "11.41",
+      "net_adjustment_usd": "13.37",
+      "basis_before_usd": "940.00",
+      "basis_after_usd": "953.37"
+    },
+    {
+      "lot_id": "LOT-001.1",
+      "shares": "60.0000",
+      "days_held_in_year": 366,
+      "ordinary_earnings_usd": "27.92",
+      "capital_gains_usd": "30.70",
+      "distributions_usd": "26.99",
+      "net_adjustment_usd": "31.63",
+      "basis_before_usd": "1410.00",
+      "basis_after_usd": "1441.63"
+    },
+    {
+      "lot_id": "LOT-002",
+      "shares": "50.0000",
+      "days_held_in_year": 366,
+      "ordinary_earnings_usd": "23.27",
+      "capital_gains_usd": "25.59",
+      "distributions_usd": "22.49",
+      "net_adjustment_usd": "26.37",
+      "basis_before_usd": "1225.00",
+      "basis_after_usd": "1251.37"
+    },
+    {
+      "lot_id": "LOT-003",
+      "shares": "25.0000",
+      "days_held_in_year": 321,
+      "ordinary_earnings_usd": "10.21",
+      "capital_gains_usd": "11.22",
+      "distributions_usd": "9.86",
+      "net_adjustment_usd": "11.57",
+      "basis_before_usd": "491.69",
+      "basis_after_usd": "503.26"
+    },
+    {
+      "lot_id": "LOT-004",
+      "shares": "30.0000",
+      "days_held_in_year": 236,
+      "ordinary_earnings_usd": "9.00",
+      "capital_gains_usd": "9.90",
+      "distributions_usd": "8.70",
+      "net_adjustment_usd": "10.20",
+      "basis_before_usd": "611.21",
+      "basis_after_usd": "621.41"
+    },
+    {
+      "lot_id": "LOT-005",
+      "shares": "15.0000",
+      "days_held_in_year": 61,
+      "ordinary_earnings_usd": "1.16",
+      "capital_gains_usd": "1.29",
+      "distributions_usd": "1.12",
+      "net_adjustment_usd": "1.33",
+      "basis_before_usd": "311.74",
+      "basis_after_usd": "313.07"
+    }
+  ],
+  "ending_lots": [
+    {
+      "lot_id": "LOT-001.1",
+      "purchase_date": "2023-03-15",
+      "shares": "60.0000",
+      "cost_basis_usd": "1441.63",
+      "original_lot_id": "LOT-001"
+    },
+    {
+      "lot_id": "LOT-002",
+      "purchase_date": "2023-09-20",
+      "shares": "50.0000",
+      "cost_basis_usd": "1251.37",
+      "original_lot_id": null
+    },
+    {
+      "lot_id": "LOT-003",
+      "purchase_date": "2024-02-15",
+      "shares": "25.0000",
+      "cost_basis_usd": "503.26",
+      "original_lot_id": null
+    },
+    {
+      "lot_id": "LOT-004",
+      "purchase_date": "2024-05-10",
+      "shares": "30.0000",
+      "cost_basis_usd": "621.41",
+      "original_lot_id": null
+    },
+    {
+      "lot_id": "LOT-005",
+      "purchase_date": "2024-11-01",
+      "shares": "15.0000",
+      "cost_basis_usd": "313.07",
+      "original_lot_id": null
+    }
+  ],
+  "form_8621_data": [
+    {
+      "fund_ticker": "XEQT",
+      "fund_name": "iShares Core Equity ETF Portfolio",
+      "is_direct_holding": true,
+      "line_6a_ordinary_earnings_usd": "20.20",
+      "line_6b_portion_distributed_usd": "0",
+      "line_6c_tax_on_6a_usd": "20.20",
+      "line_7a_net_capital_gains_usd": "30.57",
+      "line_7b_portion_distributed_usd": "0",
+      "line_7c_tax_on_7a_usd": "30.57"
+    },
+    {
+      "fund_ticker": "XIC",
+      "fund_name": "iShares Core S&P/TSX Capped Composite Index ETF",
+      "is_direct_holding": false,
+      "line_6a_ordinary_earnings_usd": "31.02",
+      "line_6b_portion_distributed_usd": "0",
+      "line_6c_tax_on_6a_usd": "31.02",
+      "line_7a_net_capital_gains_usd": "53.42",
+      "line_7b_portion_distributed_usd": "0",
+      "line_7c_tax_on_7a_usd": "53.42"
+    },
+    {
+      "fund_ticker": "XEF",
+      "fund_name": "iShares Core MSCI EAFE IMI Index ETF",
+      "is_direct_holding": false,
+      "line_6a_ordinary_earnings_usd": "27.12",
+      "line_6b_portion_distributed_usd": "0",
+      "line_6c_tax_on_6a_usd": "27.12",
+      "line_7a_net_capital_gains_usd": "6.61",
+      "line_7b_portion_distributed_usd": "0",
+      "line_7c_tax_on_7a_usd": "6.61"
+    },
+    {
+      "fund_ticker": "XEC",
+      "fund_name": "iShares Core MSCI Emerging Markets IMI Index ETF",
+      "is_direct_holding": false,
+      "line_6a_ordinary_earnings_usd": "5.02",
+      "line_6b_portion_distributed_usd": "0",
+      "line_6c_tax_on_6a_usd": "5.02",
+      "line_7a_net_capital_gains_usd": "1.08",
+      "line_7b_portion_distributed_usd": "0",
+      "line_7c_tax_on_7a_usd": "1.08"
+    }
+  ]
+}

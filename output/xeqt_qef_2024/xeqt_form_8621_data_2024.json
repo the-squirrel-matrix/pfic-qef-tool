@@ -1,0 +1,46 @@
+[
+  {
+    "fund_ticker": "XEQT",
+    "fund_name": "iShares Core Equity ETF Portfolio",
+    "is_direct_holding": true,
+    "line_6a_ordinary_earnings_usd": "20.20",
+    "line_6b_portion_distributed_usd": "0",
+    "line_6c_tax_on_6a_usd": "20.20",
+    "line_7a_net_capital_gains_usd": "30.57",
+    "line_7b_portion_distributed_usd": "0",
+    "line_7c_tax_on_7a_usd": "30.57"
+  },
+  {
+    "fund_ticker": "XIC",
+    "fund_name": "iShares Core S&P/TSX Capped Composite Index ETF",
+    "is_direct_holding": false,
+    "line_6a_ordinary_earnings_usd": "31.02",
+    "line_6b_portion_distributed_usd": "0",
+    "line_6c_tax_on_6a_usd": "31.02",
+    "line_7a_net_capital_gains_usd": "53.42",
+    "line_7b_portion_distributed_usd": "0",
+    "line_7c_tax_on_7a_usd": "53.42"
+  },
+  {
+    "fund_ticker": "XEF",
+    "fund_name": "iShares Core MSCI EAFE IMI Index ETF",
+    "is_direct_holding": false,
+    "line_6a_ordinary_earnings_usd": "27.12",
+    "line_6b_portion_distributed_usd": "0",
+    "line_6c_tax_on_6a_usd": "27.12",
+    "line_7a_net_capital_gains_usd": "6.61",
+    "line_7b_portion_distributed_usd": "0",
+    "line_7c_tax_on_7a_usd": "6.61"
+  },
+  {
+    "fund_ticker": "XEC",
+    "fund_name": "iShares Core MSCI Emerging Markets IMI Index ETF",
+    "is_direct_holding": false,
+    "line_6a_ordinary_earnings_usd": "5.02",
+    "line_6b_portion_distributed_usd": "0",
+    "line_6c_tax_on_6a_usd": "5.02",
+    "line_7a_net_capital_gains_usd": "1.08",
+    "line_7b_portion_distributed_usd": "0",
+    "line_7c_tax_on_7a_usd": "1.08"
+  }
+]
